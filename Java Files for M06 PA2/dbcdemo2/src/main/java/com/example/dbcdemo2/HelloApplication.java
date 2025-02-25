@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.dbcdemo2;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
